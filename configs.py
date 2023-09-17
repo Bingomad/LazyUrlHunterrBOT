@@ -15,57 +15,56 @@ class Config(object):
     BOT_OWNER = int(os.environ.get("BOT_OWNER"))
     DATABASE_URL = os.environ.get("DATABASE_URL")
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None)
-    ABOUT_BOT_TEXT = """<b> <a href='https://t.me/LazyUrlHunterrBOT'>Lazy Url Hunterr</a> is an open source project.
+    ABOUT_BOT_TEXT = """<b> <a href='https://t.me/movies_villa_backup'>Mᴏᴠɪᴇs Vɪʟʟᴀ</a> ɪs ᴀɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏJᴇᴄᴛ.
 
     Devs: 
-        <a href='https://t.me/mRiderDM'>❤️ LazyDeveloper ❤️</a>
+        <a href='https://t.me/movies_villa_backup'>❤️👑ᴿᴼᵞᴬᴸ ᴼˢᴹ ᴹᴱᴴᴿᴬ👑❤️p</a>
     
     
-🤖 My Name: <a href='https://t.me/Official_Movies_Group'>Mdisk Search Robot</a>
+🤖 Mʏ Nᴀᴍᴇ: <a href='https://t.me/Movies_villae'>Mᴏᴠɪᴇs Vɪʟʟᴀ Sᴇᴀʀᴄʜ Bᴏᴛ</a>
 
-📝 Language: <a href='https://www.python.org'>Python V3</a>
+📝 Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org'>Python V3</a>
 
-📚 Library: <a href='https://docs.pyrogram.org'>Pyrogram</a>
+📚 Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org'>Pyrogram</a>
 
-📡 Server: <a href='https://heroku.com'>Heroku</a>
+📡 Sᴇʀᴠᴇʀ: <a href='https://heroku.com'>Heroku</a>
 
-📡 Server 2: <a href='https://heroku.com'>koyeb</a> <i>comming soon</i>
+📡 Sᴇʀᴠᴇʀ 2: <a href='https://heroku.com'>koyeb</a> <i>comming soon</i>
 
-👨‍💻 Developer Channel: <a href='https://t.me/LazyDeveloper'>LazyDeveloper</a></b>
+👨‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ Cʜᴀɴɴᴇʟ: <a href='https://t.me/movies_villa_backup'>Mᴏᴠɪᴇs Vɪʟʟᴀ</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>💋 Developer : <a href='https://t.me/LazyDeveloper'>LazyDeveloper</a>
+    ABOUT_HELP_TEXT = """<b>👑Dᴇᴠᴇʟᴏᴘᴇʀ👑  : <a href='https://t.me/ROYAL_GAGAN_DEEP_SINGH_MEHRA'>👑Dᴇᴠᴇʟᴏᴘᴇʀ👑</a>
 
-If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
+Iғ Yᴏᴜ Wᴀɴᴛ Yᴏᴜʀ Oᴡɴ Bᴏᴛ Lɪᴋᴇ Tʜɪs Tʜᴇɴ Yᴏᴜ Cᴀɴ Cᴏɴᴛᴀᴄᴛ Oᴜʀ Dᴇᴠᴇʟᴏᴘᴇʀ.</b>
 """
 
     HOME_TEXT = """
-<b>Hello Baby ! {}😅,
+<b>Hᴇʟʟᴏ ! {}😅,
 
-I'm the one and only fastest URL finder BOT. Add me to any Group and Give me Hunting rights !!
+ I'ᴍ ᴛʜᴇ ᴏɴᴇ ᴀɴᴅ ᴏɴʟʏ ғᴀsᴛᴇsᴛ URL ғɪɴᴅᴇʀ BOT. Aᴅᴅ ᴍᴇ ᴛᴏ ᴀɴʏ Gʀᴏᴜᴘ ᴀɴᴅ Gɪᴠᴇ ᴍᴇ Hᴜɴᴛɪɴɢ ʀɪɢʜᴛs!!
 
-I will be only yours if you will restrict adding me to other groups.
+I ᴡɪʟʟ ʙᴇ ᴏɴʟʏ ʏᴏᴜʀs ɪғ ʏᴏᴜ ᴡɪʟʟ ʀᴇsᴛʀɪᴄᴛ ᴀᴅᴅɪɴɢ ᴍᴇ ᴛᴏ ᴏᴛʜᴇʀ ɢʀᴏᴜᴘs.
 Go to @BotFather to change settings.
 
-Don't be sad ! Your all urls are in safe Hand.
+Dᴏɴ'ᴛ ʙᴇ sᴀᴅ ! Yᴏᴜʀ ᴀʟʟ ᴜʀʟs ᴀʀᴇ ɪɴ sᴀғᴇ Hᴀɴᴅ.
 
-»»» <b>Happy Hunting</b> «««
+»»» <b>❤️👑ᴿᴼᵞᴬᴸ ᴼˢᴹ ᴹᴱᴴᴿᴬ👑❤️</b> «««
 
-🔺Thank You <a href='https://t.me/LazyDeveloper'>LazyDeveloper</a>🔺 </b>
+🔺Thank You <a href='https://t.me/movies_villa_backup'>❤️👑ᴿᴼᵞᴬᴸ ᴼˢᴹ ᴹᴱᴴᴿᴬ👑❤️</a>🔺 </b>
 """
 
 
     START_MSG = """
-<b>Hello Baby ! {}😅,
+<b>Hᴇʟʟᴏ ! {}😅,
 
-I'm the one and only fastest URL & post finder BOT. Add me to any Group and Give me Hunting rights !!
+I'ᴍ ᴛʜᴇ ᴏɴᴇ ᴀɴᴅ ᴏɴʟʏ ғᴀsᴛᴇsᴛ URL & ᴘᴏsᴛ ғɪɴᴅᴇʀ BOT. Aᴅᴅ ᴍᴇ ᴛᴏ ᴀɴʏ Gʀᴏᴜᴘ ᴀɴᴅ Gɪᴠᴇ ᴍᴇ Hᴜɴᴛɪɴɢ ʀɪɢʜᴛs !!
+Dᴏɴ'ᴛ ʙᴇ sᴀᴅ ! Yᴏᴜʀ ᴀʟʟ ᴜʀʟs ᴀʀᴇ ɪɴ sᴀғᴇ Hᴀɴᴅ.</b>
 
-Don't be sad ! Your all urls are in safe Hand.</b>
+   »»»» <b>❤️👑ᴿᴼᵞᴬᴸ ᴼˢᴹ ᴹᴱᴴᴿᴬ👑❤️</b> ««««
 
-   »»»» <b>Happy Hunting</b> ««««
-
-💸<b>Donate us to Keep service Alive.💸</b>
-»» A small amount of ₹5 - ₹20 - ₹50 - ₹100 will be great help !
-🔺 Thank You 🔺 
+💸<b>Dᴏɴᴀᴛᴇ ᴜs ᴛᴏ Kᴇᴇᴘ sᴇʀᴠɪᴄᴇ Aʟɪᴠᴇ.💸</b>
+»» A sᴍᴀʟʟ ᴀᴍᴏᴜɴᴛ ᴏғ ₹5 - ₹20 - ₹50 - ₹100 ᴡɪʟʟ ʙᴇ ɢʀᴇᴀᴛ ʜᴇʟᴘ !
+🔺 Tʜᴀɴᴋ Yᴏᴜ 🔺 
 """
 
